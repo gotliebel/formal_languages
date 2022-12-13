@@ -2,6 +2,8 @@
 
 # Как запускать
 ```shell
+mkdir build
+cd build
 cmake ..
 make
 ./cocke-younger-kasami
@@ -9,6 +11,8 @@ make
 ```
 # Пользовательский ввод
 ```shell
+mkdir build
+cd build
 cmake ..
 make
 ./cocke-younger-kasami

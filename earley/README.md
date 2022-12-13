@@ -2,6 +2,8 @@
 
 # Как запускать
 ```shell
+mkdir build
+cd build
 cmake ..
 make
 ./earley
@@ -11,6 +13,8 @@ make
 # Пользовательский ввод
 
 ```shell
+mkdir build
+cd build
 cmake ..
 make
 ./earley
